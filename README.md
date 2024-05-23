@@ -1,5 +1,6 @@
 # Landing Page
 
+
 The landing page is made with XML widgets and highlights the developer resources (docs, learning labs, sandbox, sample code, blogs, etc.) in a  graphical web page.
 To edit the text and links, edit /en/index.xml. 
 To remove or add a widget, edit index.html
